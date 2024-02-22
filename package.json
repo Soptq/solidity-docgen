@@ -1,8 +1,9 @@
 {
   "name": "@soptq/solidity-docgen",
-  "version": "0.5.17",
+  "version": "0.5.17.a2",
   "description": "Solidity API documentation automatic generator.",
-  "repository": "github:Soptq/solidity-docgen",
+  "repository": "https://github.com/Soptq/solidity-docgen",
+  "homepage": "https://github.com/Soptq/solidity-docgen",
   "bin": {
     "solidity-docgen": "./dist/cli.js"
   },
